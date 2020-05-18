@@ -87,4 +87,4 @@ A simple job of *deloy-to-server* may include:
 - Copy the deployment script to server
 - Execute the deployment script. 
 
-It can be configured so that *CircleCI* run after code commit or pull request, and hence Continuous Integration/Continuous Development. For more infomation, see the slide. 
+It can be configured so that *CircleCI* run after code commit or pull request, and hence Continuous Integration/Continuous Development. For more infomation, see the slide https://github.com/nmnhut1998/CI-CD-project/blob/master/Presentation.pptx
